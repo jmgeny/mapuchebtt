@@ -101,18 +101,15 @@
                 </article>
 
                 <h3><a href="https://goo.gl/maps/xzF4e3CW32z" target="new">Saavedra 135 | Quilmes | Buenos Aires</a> | Tel: (54) 11 4253-8679 | W: 11 4415-6427</h3>
+                <br>
             
                 <article class="links">
                     <a href="https://www.facebook.com/Mapuchebtt.Quilmes" target="new"><i class="fa fa-facebook" style="font-size:24px"></i></a>
                     <a href="https://www.instagram.com/mapuchebtt/" target="new"><i class="fa fa-instagram" style="font-size:24px"></i></a>
                     <a href="mailto:info@mapuchebtt.com" target="new"><i class="fa fa-mail-forward" style="font-size:24px"></i></a>
                 </article>
+                <p>sitio en contrucción</p>
 
-                <article>
-                    <button class="btn btn-default">
-                        <a href="{{ route('product.index')}}">Listado</a>    
-                    </button>
-                </article>
             </section>
         </section>
     </body>
