@@ -53,7 +53,7 @@ hr.star-dark:after {
 }
 
 section {
-  padding: 6rem 0;
+  padding: 1rem 0;
 }
 
 section h2 {
@@ -98,7 +98,7 @@ section h2 {
   padding-top: 1rem;
   padding-bottom: 1rem;
   font-weight: 700;
-  font-family: 'Montserrat';
+  font-family: 'DIN W01 Medium, sans-serif';  /* 'Montserrat';*/
 }
 
 #mainNav .navbar-brand {
@@ -164,10 +164,20 @@ section h2 {
     font-size: 1.5em;
   }
 }
-
 header.masthead {
-  padding-top: calc(6rem + 72px);
-  padding-bottom: 6rem;
+  padding-top: calc(1rem + 72px);
+  padding-bottom: 1rem;
+  min-height: 42rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+/*  padding-top: 2rem;
+  padding-bottom: 2rem;*/
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/profile.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;  
 }
 
 header.masthead h1 {
@@ -182,8 +192,8 @@ header.masthead h2 {
 
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: calc(6rem + 106px);
-    padding-bottom: 6rem;
+    padding-top: calc(1rem + 106px);
+    padding-bottom: 1rem;
   }
   header.masthead h1 {
     font-size: 4.75em;
@@ -321,8 +331,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem; /*5rem*/
+  padding-bottom: 1rem; /*5rem*/
   background-color: #2C3E50;
   color: #fff;
 }
@@ -345,10 +355,12 @@ a:focus, a:hover, a:active {
 
 .bg-primary {
   background-color: #18BC9C !important;
+  /*ED1D24*/
 }
 
 .bg-secondary {
-  background-color: #2C3E50 !important;
+  background-color: #ed1d24 !important;
+  /*cd0c1d*/
 }
 
 .text-primary {
