@@ -4,7 +4,7 @@
 
 @section('content')
     <!-- Navigation -->
-    @include('navbar')
+    {{-- @include('navbar') --}}
 
     <!-- Header -->
     @include('header')
@@ -21,5 +21,4 @@
     <!-- Footer -->
     @include('footer')
 
-@endsection  
-
+@endsection

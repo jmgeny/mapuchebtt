@@ -159,6 +159,7 @@ section h2 {
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
+    background-color: #bf0811cf;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.5em;
@@ -267,7 +268,7 @@ header.masthead h2 {
 
 @media (min-width: 768px) {
   .portfolio-modal .portfolio-modal-dialog {
-    min-height: 100vh;
+    min-height: 30vh;
     padding: 5rem;
     margin: 3rem calc(3rem - 8px);
   }
@@ -333,7 +334,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 1rem; /*5rem*/
   padding-bottom: 1rem; /*5rem*/
-  background-color: #2C3E50;
+  background-color: #4c4c4c;
   color: #fff;
 }
 
@@ -359,8 +360,9 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: #ed1d24 !important;
-  /*cd0c1d*/
+  background-color: #BF0811 !important;
+  /*background-color:  rgba(191, 8, 17, 0.5);*/
+  /*bf081185*/
 }
 
 .text-primary {
@@ -389,4 +391,15 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+
+.titulo {
+  top: 50%;
+  position: absolute;
+  text-align: left;
+  color: black;
+}
+
+.nav-secondary {
+  background-color: #BF0811;
 }

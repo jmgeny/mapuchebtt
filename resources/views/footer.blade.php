@@ -2,20 +2,33 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4 mb-5 mb-lg-0">
-            <h4 class="text-uppercase mb-4">Location</h4>
-            <p class="lead mb-0">2215 John Daniel Drive
-              <br>Clark, MO 65243</p>
+            <h4 class="text-uppercase mb-4">Local</h4>
+            <p class="lead mb-0">Saavedra 135, Quilmes, Buenos Aires
+              <br>Quilmes - Buenoa Aires</p>
           </div>
           <div class="col-md-4 mb-5 mb-lg-0">
-            <h4 class="text-uppercase mb-4">Around the Web</h4>
+            <h4 class="text-uppercase mb-4">Nuestras Redes</h4>
             <ul class="list-inline mb-0">
               <li class="list-inline-item">
-                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://www.facebook.com/Mapuchebtt.Quilmes/" target="new">
                   <i class="fa fa-fw fa-facebook"></i>
                 </a>
+                <p>Face</p>
               </li>
               <li class="list-inline-item">
-                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle"  href="https://www.instagram.com/mapuchebtt/" target="new">
+                  <i class="fa fa-instagram"></i>
+                </a>
+                <p>MapucheTT</p>                
+              </li>
+              <li class="list-inline-item">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle"  href="https://www.instagram.com/embajadortecnico/" target="new">
+                  <i class="fa fa-instagram"></i>
+                </a>
+                <p>Embajador</p>                
+              </li>              
+{{--               <li class="list-inline-item">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://www.instagram.com/embajadortecnico/">
                   <i class="fa fa-fw fa-google-plus"></i>
                 </a>
               </li>
@@ -33,23 +46,17 @@
                 <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
                   <i class="fa fa-fw fa-dribbble"></i>
                 </a>
-              </li>
+              </li> --}}
             </ul>
           </div>
           <div class="col-md-4">
-            <h4 class="text-uppercase mb-4">About Freelancer</h4>
-            <p class="lead mb-0">Freelance is a free to use, open source Bootstrap theme created by
-              <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+            <h4 class="text-uppercase mb-4">MapucheBTT</h4>
+            <p class="lead mb-0">Tienda de bicicletas
+              <a href="https://goo.gl/maps/pgGfkA9wLpQ2" target="new">Como llegar</a>.</p>
           </div>
         </div>
       </div>
     </footer>
-
-    <div class="copyright py-2 text-center text-white">
-      <div class="container">
-        <small>Copyright &copy; Your Website 2019</small>
-      </div>
-    </div>
 
     <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
     <div class="scroll-to-top d-lg-none position-fixed ">

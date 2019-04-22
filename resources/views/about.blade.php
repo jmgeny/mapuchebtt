@@ -1,20 +1,20 @@
     <section class="bg-primary text-white mb-0" id="about">
       <div class="container">
-        <h2 class="text-center text-uppercase text-white">About</h2>
+        <h2 class="text-center text-uppercase text-white">Mapuche</h2>
         {{-- <hr class="mb-1"> --}}
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+            <p class="lead">Los mapuches o araucanos ​​ son un pueblo amerindio que habita en Chile y Argentina. De modo particular se refiere a los que habitaban Arauco, los araucanos, o el territorio que corresponde a la actual región de La Araucanía y sus descendientes.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+            <p class="lead">En la lengua mapuche o mapudungún, el nombre que ellos mismos se dan es mapuche, o mapunche, compuesto de mapu, 'tierra, país', y che, 'persona, gente'; es decir, 'gente de la tierra'.</p>
           </div>
         </div>
-        <div class="text-center mt-4">
+{{--         <div class="text-center mt-4">
           <a class="btn btn-xl btn-outline-light" href="#">
             <i class="fa fa-download mr-2"></i>
-            Download Now!
+            Hernan Mesa!
           </a>
-        </div>
+        </div> --}}
       </div>
     </section>

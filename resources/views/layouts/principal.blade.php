@@ -9,7 +9,7 @@
     <meta name="author" content="Juan Manuel Geny">	
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <!-- Custom fonts for this template -->
     <link href="{{ asset('css/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
@@ -24,6 +24,7 @@
 </head>
 <body id="page-top">
         {{-- <div class="container"> --}}
+            @include('navbar')
             @yield('content')
         {{-- </div> --}}
 
