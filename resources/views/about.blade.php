@@ -10,11 +10,5 @@
             <p class="lead">En la lengua mapuche o mapudungún, el nombre que ellos mismos se dan es mapuche, o mapunche, compuesto de mapu, 'tierra, país', y che, 'persona, gente'; es decir, 'gente de la tierra'.</p>
           </div>
         </div>
-{{--         <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="#">
-            <i class="fa fa-download mr-2"></i>
-            Hernan Mesa!
-          </a>
-        </div> --}}
       </div>
     </section>

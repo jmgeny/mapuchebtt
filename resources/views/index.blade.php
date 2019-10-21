@@ -10,13 +10,13 @@
     @include('header')
 
     <!-- Portfolio Grid Section -->
-    @include('portfolio')
+    {{-- @include('portfolio') --}}
 
     <!-- About Section -->
     @include('about')
     
     <!-- Contact Section -->
-    @include('contact')
+    {{-- @include('contact') --}}
 
     <!-- Footer -->
     @include('footer')
